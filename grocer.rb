@@ -52,6 +52,6 @@ def checkout(cart: [], coupons: [])
   cart = apply_clearance(cart: cart)
   final = nil
 end
-end
+
   
 end
